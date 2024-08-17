@@ -97,7 +97,7 @@ button#equal{
 border-bottom-left-radius:  1em 1em;
 }
 .calculator #display{
-    color: #1a0000;
+    color: black;
     
 }
 .calculator button#clear{
